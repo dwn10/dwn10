@@ -47,7 +47,7 @@ const darwin = {
 
 **Languages and Tools**
 <p align='center'>
-<img src="https://giphy.com/stickers/glitch-noise-solarw-XgN35QOWSzLKGISuxm" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+<iframe src="https://giphy.com/embed/XgN35QOWSzLKGISuxm" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/glitch-noise-solarw-XgN35QOWSzLKGISuxm">via GIPHY</a></p>
 <p align="center">
     	<a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
     	<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
