@@ -47,7 +47,7 @@ const darwin = {
 
 **Languages and Tools**
 <p align='center'>
-<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+<img src="https://giphy.com/stickers/glitch-noise-solarw-XgN35QOWSzLKGISuxm" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 <p align="center">
     	<a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
     	<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
@@ -88,7 +88,7 @@ Current Project: <a href="https://www.ecuador-it.com/ecuador-it-portafolio-2022/
   	  
 Credits: [dwn-1080](#)
 
-### ✍️ Random Dev Quote
+### 🆒 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
