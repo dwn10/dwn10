@@ -11,7 +11,7 @@
   class WhoAmI:
     user = 'Darwin Paz'
 	current_edu = "GFN"
-    currently_learning = "ANWENDUNGSENTWICKLUNG"
+    currently_learning = "software development"
     fun_fact = "I hate the heat"
 	hobbies = [
 				'Painting',
@@ -87,7 +87,7 @@ Current Project: <a href="https://www.ecuador-it.com/ecuador-it-portafolio-2022/
 
 <p align="center">
   	  
-Credits: [dwn-1080](#)
+Credits: [dwn-1080](https://commons.wikimedia.org/wiki/File:Ecuavoley-tablero-digital.gif)
 
 ### 🆒 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
