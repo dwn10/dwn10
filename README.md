@@ -14,14 +14,15 @@
     currently_learning = "software development"
     fun_fact = "I hate the heat"
 	hobbies = [
+				'Graphic design',
 				'Painting',
-                         'MTB',
+				'MTB',
 			 	'Rafting',
 				'Sci-Fi Movies'
 			]
 	
 	def getCity():
-		return South_America()
+		return South_America_build bridges()
 	
 	def Ambitions():
 		BecomeSoftwareDev()
