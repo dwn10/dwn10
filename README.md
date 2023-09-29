@@ -1,7 +1,7 @@
 <h2 align="center">
         <span>Hey I'am </span>
-        <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
-        <span>**Darwin**</span>
+        <img src="#" width ="25">
+        <span>Darwin</span>
 </h2>
 
 <p align="center">
