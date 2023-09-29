@@ -1,4 +1,9 @@
-<h2 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm <a href="https://shwetang550.github.io/profile/">Darwin</a></h2>
+<h2 align="center">
+        <span>Hey I'am </span>
+        <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
+        <span>**Darwin**</span>
+</h2>
+
 <p align="center">
   <a href="https://www.facebook.com/dwn1080" target="_blank">Facebook</a> •
   <a href="https://www.instagram.com/dwn1080/" target="_blank">Instagram</a> •
@@ -41,6 +46,7 @@ const darwin = {
   askMeAbout: ["web dev", "tech", "app dev", "graphic design"],
   technologies: {
 	frontend: ["HTML", "CSS", "JS"],
+	backend: ["Python", "PHP", "Django"],
 	low code: ["App Sheet"],
   }
 }
