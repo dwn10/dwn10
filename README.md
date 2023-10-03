@@ -1,5 +1,4 @@
-<img align="left" width="40" height="40" alt="GIF" src="https://media.giphy.com/media/CAIgh8LKFbIciGx5Qe/giphy.gif" />
-<h2> Hey I'am Darwin</h2>
+<h2 align="center"> Hey I'am Darwin</h2>
 
 <p align="center">
   <a href="https://www.facebook.com/dwn1080" target="_blank">Facebook</a> •
@@ -48,8 +47,7 @@ const darwin = {
   }
 }
 ```
-
-**Languages and Tools**
+<h3 align="center">Languages and Tools</h3>
 <p align='center'>
 <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 <p align="center">
@@ -84,7 +82,7 @@ const darwin = {
 
 <summary> <b> <samp> more </samp></b></summary>
 <samp>
- <b><h2 style="color: #fc6203">my &nbsp; portfolio</h2> </b>
+ <b><h2 style="color: blue;">my portfolio</h2> </b>
 
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
 
