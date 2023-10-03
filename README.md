@@ -64,11 +64,11 @@ const darwin = {
     	<a href="https://jquery.com/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-shadow-tal-revivo.png"/></a>
     	<a href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
    	<a href="https://www.android.com/intl/en_in/" target="_blank"><img src="https://img.icons8.com/color/48/000000/android-os.png"/></a>
-    	<a href="https://flutter.dev/"><img alt="flutter" src="https://icons8.com/icon/pCvIfmctRaY8/flutter" width="40"></a>
- 	<a href="https://www.appsheet.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AppSheet_Logo.svg/240px-AppSheet_Logo.svg.png"width="40" height="40"/></a>
-    	<a href="https://wordpress.com/"><img src="https://img.icons8.com/fluency/48/000000/wordpress.png"/></a>
-	<a href="https://git-scm.com/"><img src="https://devstickers.com/assets/img/pro/apiv.png"width="40" height="40"/></a>
+    	<a href="https://www.appsheet.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AppSheet_Logo.svg/240px-AppSheet_Logo.svg.png"width="40" height="40"/></a>
+    	<a href="https://wordpress.com/"><img src="https://img.icons8.com/fluency/48/000000/wordpress.png" width="40" height="40"/></a>
+	<a href="https://git-scm.com/"><img src="https://devstickers.com/assets/img/pro/apiv.png" width="40" height="40"/></a>
 	<a href="https://code.visualstudio.com/"><img alt="vs-code" src="https://devstickers.com/assets/img/pro/saxu.png" width="40"></a>
+	<a href="https://flutter.dev/"><img alt="flutter" src="https://storage.googleapis.com/cms-storage-bucket/0dbfcc7a59cd1cf16282.png" width="30" height="36"/></a>
 	<a href="https://www.adobe.com/products/photoshop.html"><img alt="choubari" src="https://devstickers.com/assets/img/pro/k176.png" width="40"></a>
  	<a href="https://www.adobe.com/products/illustrator.html"><img alt="choubari" src="https://devstickers.com/assets/img/pro/y4b0.png" width="40"></a>
 </p>
