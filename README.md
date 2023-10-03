@@ -1,8 +1,5 @@
-<h2 align="center">
-        <span>Hey I'am </span>
-        <img src="#" width ="25">
-        <span>Darwin</span>
-</h2>
+<img align="left" width="40" height="40" alt="GIF" src="https://media.giphy.com/media/CAIgh8LKFbIciGx5Qe/giphy.gif" />
+<h2> Hey I'am Darwin</h2>
 
 <p align="center">
   <a href="https://www.facebook.com/dwn1080" target="_blank">Facebook</a> •
@@ -35,8 +32,8 @@
 	
  ```
 ***
-<h2 align="left">
-<img src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e474zlamy1e26u4my12ginmtmb7eb2njtl2i5jk05wo&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="25" height="25"/> Skills</h2>
+<img align="left" width="30" height="30" alt="GIF" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" />
+<h2> Skills</h2>
 	
 #### A little more about me
 ```javascript
