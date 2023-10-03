@@ -36,7 +36,7 @@
  ```
 ***
 <h2 align="left">
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Skills</h2>
+<img src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e474zlamy1e26u4my12ginmtmb7eb2njtl2i5jk05wo&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="25" height="25"/> Skills</h2>
 	
 #### A little more about me
 ```javascript
@@ -64,7 +64,7 @@ const darwin = {
     	<a href="https://jquery.com/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-shadow-tal-revivo.png"/></a>
     	<a href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
    	<a href="https://www.android.com/intl/en_in/" target="_blank"><img src="https://img.icons8.com/color/48/000000/android-os.png"/></a>
-    	<a href="https://www.appsheet.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AppSheet_Logo.svg/240px-AppSheet_Logo.svg.png"width="40" height="40"/></a>
+    	<a href="https://www.appsheet.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AppSheet_Logo.svg/240px-AppSheet_Logo.svg.png" width="40" height="40"/></a>
     	<a href="https://wordpress.com/"><img src="https://img.icons8.com/fluency/48/000000/wordpress.png" width="40" height="40"/></a>
 	<a href="https://git-scm.com/"><img src="https://devstickers.com/assets/img/pro/apiv.png" width="40" height="40"/></a>
 	<a href="https://code.visualstudio.com/"><img alt="vs-code" src="https://devstickers.com/assets/img/pro/saxu.png" width="40"></a>
