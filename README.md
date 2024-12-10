@@ -41,7 +41,7 @@ const darwin = {
   code: ["Python", "HTML", "CSS", "SQL", "Javascript"],
   askMeAbout: ["web dev", "tech", "app dev", "graphic design"],
   technologies: {
-	frontend: ["HTML", "CSS", "JS"],
+	frontend: ["HTML", "CSS", "JS", "Streamlit"],
 	backend: ["Python", "PHP", "Django"],
 	low code: ["App Sheet"]
   }
