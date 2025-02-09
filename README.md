@@ -58,14 +58,14 @@ const darwin = {
     	<a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
     	<a href="https://jquery.com/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-shadow-tal-revivo.png"/></a>
     	<a href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
-   	<a href="https://www.android.com/intl/en_in/" target="_blank"><img src="https://img.icons8.com/color/48/000000/android-os.png"/></a>
-    	<a href="https://www.appsheet.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AppSheet_Logo.svg/240px-AppSheet_Logo.svg.png" width="40" height="40"/></a>
-    	<a href="https://wordpress.com/"><img src="https://img.icons8.com/fluency/48/000000/wordpress.png" width="40" height="40"/></a>
-	<a href="https://git-scm.com/"><img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" width="40" height="40"/></a>
-	<a href="https://code.visualstudio.com/"><img alt="vs-code" src="https://img.icons8.com/?size=100&id=ezj3zaVtImPg&format=png&color=000000" width="40"></a>
-	<a href="https://flutter.dev/"><img alt="flutter" src="https://storage.googleapis.com/cms-storage-bucket/0dbfcc7a59cd1cf16282.png" width="30" height="36"/></a>
-	<a href="https://streamlit.io/"><img alt="flet" src="https://img.icons8.com/?size=100&id=Rffi8qeb2fK5&format=png&color=000000" width="40"></a>
-	<a href="https://www.adobe.com/products/photoshop.html"><img alt="ps" src="https://img.icons8.com/?size=100&id=13677&format=png&color=000000" width="40"></a>
+   	<a href="https://www.mysql.com/" target="_blank"><img src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000" width="40"/></a>
+    	<a href="https://www.appsheet.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AppSheet_Logo.svg/240px-AppSheet_Logo.svg.png" width="40" height="40"/></a>
+    	<a href="https://wordpress.com/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/wordpress.png" width="40" height="40"/></a>
+	<a href="https://git-scm.com/" target="_blank"><img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" width="40" height="40"/></a>
+	<a href="https://code.visualstudio.com/" target="_blank"><img alt="vs-code" src="https://img.icons8.com/?size=100&id=ezj3zaVtImPg&format=png&color=000000" width="40"></a>
+	<a href="https://flutter.dev/" target="_blank"><img alt="flutter" src="https://storage.googleapis.com/cms-storage-bucket/0dbfcc7a59cd1cf16282.png" width="30" height="36"/></a>
+	<a href="https://streamlit.io/" target="_blank"><img alt="flet" src="https://img.icons8.com/?size=100&id=Rffi8qeb2fK5&format=png&color=000000" width="40"></a>
+	<a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img alt="ps" src="https://img.icons8.com/?size=100&id=13677&format=png&color=000000" width="40"></a>
 </p>
 
 ***
