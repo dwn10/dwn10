@@ -56,7 +56,7 @@ const darwin = {
     	<a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>
     	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
     	<a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
-    	<a href="https://jquery.com/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-shadow-tal-revivo.png"/></a>
+    	<a href="https://jquery.com/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-shadow-tal-revivo.png" width="40"/></a>
     	<a href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
    	<a href="https://www.mysql.com/" target="_blank"><img src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000" width="40"/></a>
     	<a href="https://www.appsheet.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AppSheet_Logo.svg/240px-AppSheet_Logo.svg.png" width="40" height="40"/></a>
