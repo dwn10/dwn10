@@ -62,7 +62,7 @@ const darwin = {
     	<a href="https://www.appsheet.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AppSheet_Logo.svg/240px-AppSheet_Logo.svg.png" width="40" height="40"/></a>
     	<a href="https://wordpress.com/"><img src="https://img.icons8.com/fluency/48/000000/wordpress.png" width="40" height="40"/></a>
 	<a href="https://git-scm.com/"><img src="https://devstickers.com/assets/img/pro/apiv.png" width="40" height="40"/></a>
-	<a href="https://code.visualstudio.com/"><img alt="vs-code" src="https://devstickers.com/assets/img/pro/saxu.png" width="40"></a>
+	<a href="https://code.visualstudio.com/"><img alt="vs-code" src="https://icons8.com/icon/0OQR1FYCuA9f/visual-studio-code-2019" width="40"></a>
 	<a href="https://flutter.dev/"><img alt="flutter" src="https://storage.googleapis.com/cms-storage-bucket/0dbfcc7a59cd1cf16282.png" width="30" height="36"/></a>
 	<a href="https://www.adobe.com/products/photoshop.html"><img alt="choubari" src="https://devstickers.com/assets/img/pro/k176.png" width="40"></a>
  	<a href="https://www.adobe.com/products/illustrator.html"><img alt="choubari" src="https://devstickers.com/assets/img/pro/y4b0.png" width="40"></a>
