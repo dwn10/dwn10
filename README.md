@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://www.facebook.com/dwn1080" target="_blank">Facebook</a> •
   <a href="https://www.instagram.com/dwn1080/" target="_blank">Instagram</a> •
-  <a href="#" target="_blank">Discord</a>
+  <a href="https://github.com/dwn10/GFN" target="_blank">EDU-Projects</a>
 </p>
 
 <img align="center" height="150rem" alt="GIF" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e47yrznhyd4w1cnwbe3hlilpmls3c0mrsymhdzmzp5z&rid=200w.webp" />
