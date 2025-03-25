@@ -90,7 +90,7 @@ Current Project: <a href="https://www.ecuador-it.com/ecuador-it-portafolio-2022/
 
 <p align="center">
   	  
-Credits: [dwn-1080](https://commons.wikimedia.org/wiki/File:Ecuavoley-tablero-digital.gif)
+Credits: [dwn-1080](https://www.youtube.com/watch?v=uhjMRazuHWU)
 
 ### 🆒 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
