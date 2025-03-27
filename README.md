@@ -90,7 +90,7 @@ Current Project: <a href="https://www.ecuador-it.com/ecuador-it-portafolio-2022/
 
 <p align="center">
   	  
-Credits: [dwn-1080](https://www.youtube.com/watch?v=uhjMRazuHWU)
+Art contributions: [dwn-1080](https://github.com/dwn10/C_C_C/tree/main/PROJEKT/Documentation/HTML/DarwinPaz)
 
 ### 🆒 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
