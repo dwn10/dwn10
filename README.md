@@ -86,12 +86,12 @@ const darwin = {
 
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
 
-EDU Project: [Darwin Paz](https://github.com/dwn10/C_C_C/tree/main/PROJEKT/Documentation/HTML/DarwinPaz)
-Current Project: <a href="https://www.ecuador-it.com/ecuador-it-portafolio-2022/" target="_blank">Here...</a>
-
+EDU Project: [Here...](https://github.com/dwn10/C_C_C/tree/main/PROJEKT/Documentation/HTML/DarwinPaz)
+Current Project: [Here...](https://www.ecuador-it.com/ecuador-it-portafolio-2022/)
+Art contributions: [Darwin Paz](https://github.com/dwn10/C_C_C/tree/main/PROJEKT/Documentation/HTML/DarwinPaz)
 <p align="center">
   	  
-Art contributions: [Darwin Paz](https://github.com/dwn10/C_C_C/tree/main/PROJEKT/Documentation/HTML/DarwinPaz)
+
 
 ### 🆒 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
