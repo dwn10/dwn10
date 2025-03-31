@@ -86,7 +86,8 @@ const darwin = {
 
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
 
-Current Project: <a href="https://www.ecuador-it.com/ecuador-it-portafolio-2022/" target="_blank">here...</a>
+EDU Project: [Darwin Paz](https://github.com/dwn10/C_C_C/tree/main/PROJEKT/Documentation/HTML/DarwinPaz)
+Current Project: <a href="https://www.ecuador-it.com/ecuador-it-portafolio-2022/" target="_blank">Here...</a>
 
 <p align="center">
   	  
