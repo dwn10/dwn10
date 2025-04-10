@@ -10,8 +10,8 @@
 
  ```python
   class WhoAmI:
-  user = 'Darwin Paz'
-  profession = "software development"
+  name = 'Darwin Paz'
+  profession = "Software Development"
   fun_fact = "I hate the heat"
   hobbies = [
     'Graphic design',
@@ -38,7 +38,7 @@
 darwin = {
     "pronouns": ["He", "Him"],
     "code_skills": ["Python", "HTML", "CSS", "SQL", "JS"],
-    "interests": ["web development", "tech", "app development", "graphic design"],
+    "interests": ["web dev", "tech", "app dev", "graphic design"],
     "tech_stack": {
         "frontend": ["HTML", "CSS", "JS", "Streamlit"],
         "backend": ["Python", "PHP", "Django"],
