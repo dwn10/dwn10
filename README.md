@@ -10,23 +10,23 @@
 
  ```python
   class WhoAmI:
-    user = 'Darwin Paz'
-	profession = "software development"
-    fun_fact = "I hate the heat"
-	hobbies = [
-				'Graphic design',
-				'Painting',
-				'MTB',
-			 	'Rafting',
-				'Sci-Fi Movies'
-			]
-	
-	def getCity():
-		return South_America_build_bridges()
-	
-	def Ambitions():
-		BecomeFullStackDev()
-		FinishMyProjects()
+  user = 'Darwin Paz'
+  profession = "software development"
+  fun_fact = "I hate the heat"
+  hobbies = [
+    'Graphic design',
+    'Painting',
+    'MTB',
+    'Rafting',
+    'Sci-Fi Movies'
+  ]
+
+  def getCity():
+    return South_America_build_bridges()
+
+  def Ambitions():
+    BecomeFullStackDev()
+    FinishMyProjects()
 	
  ```
 ***
