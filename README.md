@@ -35,15 +35,15 @@
 	
 #### A little more about me
 ```javascript
-const darwin = {
-  pronouns: "He" | "Him",
-  code: ["Python", "HTML", "CSS", "SQL", "Javascript"],
-  askMeAbout: ["web dev", "tech", "app dev", "graphic design"],
-  technologies: {
-	frontend: ["HTML", "CSS", "JS", "Streamlit"],
-	backend: ["Python", "PHP", "Django"],
-	low code: ["App Sheet"]
-  }
+darwin = {
+    "pronouns": "He / Him",
+    "code": ["Python", "HTML", "CSS", "SQL", "JS"],
+    "askMeAbout": ["web dev", "tech", "app dev", "graphic design"],
+    "technologies": {
+        "frontend": ["HTML", "CSS", "JS", "Streamlit"],
+        "backend": ["Python", "PHP", "Django"],
+        "low code": ["App Sheet"]
+    }
 }
 ```
 <h3 align="center">Languages and Tools</h3>
