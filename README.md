@@ -37,9 +37,9 @@
 ```python
 darwin = {
     "pronouns": ["He", "Him"],
-    "code": ["Python", "HTML", "CSS", "SQL", "JS"],
-    "ask_me_about": ["web development", "tech", "app development", "graphic design"],
-    "technologies": {
+    "code_skills": ["Python", "HTML", "CSS", "SQL", "JS"],
+    "interests": ["web development", "tech", "app development", "graphic design"],
+    "tech_stack": {
         "frontend": ["HTML", "CSS", "JS", "Streamlit"],
         "backend": ["Python", "PHP", "Django"],
         "low_code": ["AppSheet"],
