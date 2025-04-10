@@ -34,16 +34,18 @@
 <h2> Skills</h2>
 	
 #### A little more about me
-```javascript
+```python
 darwin = {
-    "pronouns": "He / Him",
+    "pronouns": ["He", "Him"],
     "code": ["Python", "HTML", "CSS", "SQL", "JS"],
-    "askMeAbout": ["web dev", "tech", "app dev", "graphic design"],
+    "ask_me_about": ["web development", "tech", "app development", "graphic design"],
     "technologies": {
         "frontend": ["HTML", "CSS", "JS", "Streamlit"],
         "backend": ["Python", "PHP", "Django"],
-        "low code": ["App Sheet"]
-    }
+        "low_code": ["AppSheet"],
+        "database": ["SQL"]
+    },
+    "version": "1.1"
 }
 ```
 <h3 align="center">Languages and Tools</h3>
