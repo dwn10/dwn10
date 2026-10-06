@@ -38,15 +38,15 @@
 ```python
 darwin = {
     "pronouns": ["He", "Him"],
-    "code_skills": ["Python", "HTML", "CSS", "SQL", "JS"],
-    "interests": ["web dev", "tech", "app dev", "graphic design"],
+    "code_skills": ["TypeScript", "JavaScript", "Python", "SQL", "HTML5", "CSS3"],
+    "interests": ["web dev", "cloud & tech", "app dev", "ui/ux & graphic design"],
     "tech_stack": {
-        "frontend": ["HTML", "CSS", "JS", "Streamlit"],
-        "backend": ["Python", "PHP", "Django"],
-        "low_code": ["AppSheet"],
-        "database": ["SQL"]
+        "frontend": ["React", "TypeScript", "JavaScript", "Tailwind CSS", "Streamlit"],
+        "backend": ["Node.js", "Express", "Python", "Django", "PHP"],
+        "database": ["PostgreSQL", "MySQL", "MongoDB"],
+        "low_code": ["AppSheet"]
     },
-    "version": "1.1"
+    "version": "2.0"
 }
 ```
 <h3 align="center">Languages and Tools</h3>
