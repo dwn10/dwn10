@@ -53,21 +53,22 @@ darwin = {
 <p align='center'>
 <img src="https://media.giphy.com/media/Z9mnGHAh5i6hy9yRag/giphy.gif" width="200" height="100" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 <p align="center">
-    	<a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
-    	<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
-    	<a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>
-    	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
-    	<a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
-    	<a href="https://jquery.com/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-shadow-tal-revivo.png" width="40"/></a>
-    	<a href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
-   		<a href="https://www.mysql.com/" target="_blank"><img src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000" width="40"/></a>
-    	<a href="https://www.appsheet.com" target="_blank"><img src="https://cdn.simpleicons.org/appsheet/4285F4" alt="AppSheet" width="40" height="40"/></a>
-    	<a href="https://wordpress.com/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/wordpress.png" width="40" height="40"/></a>
-		<a href="https://git-scm.com/" target="_blank"><img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" width="40" height="40"/></a>
-		<a href="https://code.visualstudio.com/" target="_blank"><img alt="vs-code" src="https://img.icons8.com/?size=100&id=ezj3zaVtImPg&format=png&color=000000" width="40"></a>
-		<a href="https://flutter.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/></a>
-		<a href="https://streamlit.io/" target="_blank"><img alt="flet" src="https://img.icons8.com/?size=100&id=Rffi8qeb2fK5&format=png&color=000000" width="40"></a>
-		<a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img alt="ps" src="https://img.icons8.com/?size=100&id=13677&format=png&color=000000" width="40"></a>
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
+	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
+	<a href="https://jquery.com/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-shadow-tal-revivo.png" width="40"/></a>
+	<a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
+    <a href="https://www.djangoproject.com/" target="_blank"><img src="https://img.icons8.com/color/48/django.png" alt="Django" width="40" height="40"/></a>
+	<a href="https://streamlit.io/" target="_blank"><img alt="flet" src="https://img.icons8.com/?size=100&id=Rffi8qeb2fK5&format=png&color=000000" width="40"></a>
+    <a href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
+   	<a href="https://www.mysql.com/" target="_blank"><img src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000" width="40"/></a>
+	<a href="https://learn.microsoft.com/powershell/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" alt="PowerShell" width="40" height="40"/></a>
+    <a href="https://www.appsheet.com" target="_blank"><img src="https://img.icons8.com/color/48/google-appsheet.png" alt="AppSheet" width="40" height="40"/></a>
+	<a href="https://react.dev/" target="_blank"><img src="https://img.icons8.com/color/48/react-native.png" alt="React" width="40" height="40"/></a>
+    <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.icons8.com/color/48/typescript.png" alt="TypeScript" width="40" height="40"/></a>
+	<a href="https://flutter.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/></a>
+	<a href="https://code.visualstudio.com/" target="_blank"><img alt="vs-code" src="https://img.icons8.com/?size=100&id=ezj3zaVtImPg&format=png&color=000000" width="40"></a>
+	<a href="https://git-scm.com/" target="_blank"><img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" width="40" height="40"/></a>
 </p>
 
 ***
